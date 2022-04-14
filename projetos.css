@@ -25,22 +25,17 @@ nav a:hover{
 }
 main{
     margin-top: 100px;
-}
-/*
-main img{
-    margin-top: 225px;
-    margin-left: 150px;
-    margin-right: 150px;
-    width: 1500px;
-    height: 70px;
-}*/
-section:hover{
-    color: aquamarine;
-}
-.dir{
     text-align:left;
     margin-left: 100px;
     margin-right: 100px;
+}
+
+main img{
+    width: 900px;
+    height: 100px;
+}
+main a:hover{
+    color: aquamarine;
 }
 .centro{
     text-align: center;
@@ -53,7 +48,7 @@ footer img{
 footer{
     display: flex;
     justify-content: center;
-    margin-top: 398px;
+    margin-top: 393px;
 }
 footer a:hover{
     color: aquamarine;
